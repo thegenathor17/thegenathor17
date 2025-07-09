@@ -41,5 +41,5 @@ Sometimes I break stuff on purpose to see what happens.
 ---
 
 > Not trying to go viral.  
-> Just trying to leave something behind that matters.
+> Just trying to leave something behind that matters.  
 >Damn, ChatGPT knows how to cook
