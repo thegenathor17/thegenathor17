@@ -28,7 +28,7 @@ Design and code are just different ways of telling the truth.
 
 ## 🛠️ Tech Stack
 
-Unity / C# / HTML / CSS / JS / Firebase / Python / Node  
+Unity / C# / HTML / CSS / JS / Firebase / Python / Node / C++  
 Sometimes I break stuff on purpose to see what happens.
 
 ---
