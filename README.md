@@ -14,7 +14,7 @@ Design and code are just different ways of telling the truth.
 - Working on **Jade Tears** — a 2D narrative-driven action game where your choices cut deeper than your sword.
 - Developing **thegenathor17.github.io** — a web blog where I document everything I learn.
 - Building a **A Galactic Odyssey** — a 2D tech-driven space game where you manage a space agency in a random galaxy.
-- Giving maintenance to **CLearning** — a bunch of tools made in c fir developers
+- Giving maintenance to **CLearning** — a bunch of tools made in C for developers
 
 ---
 
